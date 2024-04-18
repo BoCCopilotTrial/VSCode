@@ -1,2 +1,2 @@
 # VSCode
-Repository for VS Code entension
+Repository for VS Code Co-Pilot entension testing 01
